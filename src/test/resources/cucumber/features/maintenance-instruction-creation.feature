@@ -1,7 +1,7 @@
 Feature: Work Instruction Creation
   As a maintenance leader
   I want to be able to create work instructions
-  So my operatives are aware of the work they are required to complete
+  So my operatives are aware of the work they are required to finish
 
   Scenario: Valid new work instructions should be created
     Given   I create a valid work instruction
